@@ -1,8 +1,11 @@
 # autoNormDB
 
-**autoNormDB** is a lightweight SQL database engine being developed from scratch as part of my 3-credit lab project. It focuses on building core database components such as schema management, persistence, and eventually indexing, concurrency control, and full SQL parsing.
+**autoNormDB** is a lightweight SQL database engine being developed from scratch. It focuses on building core database components such as schema management, persistence, and eventually indexing, concurrency control, and full SQL parsing.
 
 ---
+## 🚧 Created by: 
+Jeyadevan P K 
+github: insaneonai
 
 ## 🚧 Project Status
 
