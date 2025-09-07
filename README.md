@@ -5,7 +5,7 @@
 ---
 ## 🚧 Created by: 
 Jeyadevan P K 
-github: insaneonai
+github: [insaneonai](https://github.com/insaneonai)
 
 ## 🚧 Project Status
 
